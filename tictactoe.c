@@ -176,5 +176,3 @@ char checkWinner(){
 //   뒤에 있더라도 return type을 자동으로 int로 인식하기에 compile 불가하다.
 //   그렇기에 function을 사용할것이라면 먼저 정의를 하고 사용하는 습관을 들이자.
 //   printWinner()를 computerMove() 전에 써놓으니 에러가 사라졌다.
-
-// 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

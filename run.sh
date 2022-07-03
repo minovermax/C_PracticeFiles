@@ -1,7 +1,8 @@
-export WORKING_ON="tictactoe"
+# enter file to run in WORKING_ON
+export WORKING_ON="stack"
 
-gcc *.c -o $WORKING_ON
+gcc $WORKING_ON.c -o $WORKING_ON
 chmod 744 $WORKING_ON
 ./$WORKING_ON
 
-# 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
+# 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
